@@ -1,2 +1,3 @@
 class SpeedrunsController < ApplicationController
+
 end
