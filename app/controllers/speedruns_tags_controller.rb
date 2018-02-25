@@ -1,2 +1,0 @@
-class SpeedrunsTagsController < ApplicationController
-end
